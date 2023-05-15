@@ -12,4 +12,4 @@
 print("hello world")
 ```
 
-(https://i.imgur.com/4fBELoI.png)[test]
+![https://i.imgur.com/4fBELoI.png](test)
